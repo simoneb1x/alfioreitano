@@ -743,6 +743,10 @@ figcaption {
   background-image: url('../images/katarzyna-kos-sCFKb-7K130-unsplash.jpg');
 }
 
+.hero-right.quattro {
+  background-image: url('../images/5ebd4413566cdbec75b176f0_sid-leigh-YxqLwUeS0Bs-unsplash.jpeg');
+}
+
 .hero-title-wrapper {
   position: absolute;
   left: 33.3334%;
@@ -2119,6 +2123,18 @@ figcaption {
 
 .link {
   text-decoration: none;
+}
+
+.empty-state {
+  display: none;
+}
+
+.empty-state-2 {
+  display: none;
+}
+
+.empty-state-3 {
+  display: none;
 }
 
 @media screen and (min-width: 1280px) {
