@@ -735,6 +735,14 @@ figcaption {
   background-size: cover;
 }
 
+.hero-right.due {
+  background-image: url('../images/WhatsApp-Image-2021-01-07-at-09.47.06.jpeg');
+}
+
+.hero-right.tre {
+  background-image: url('../images/katarzyna-kos-sCFKb-7K130-unsplash.jpg');
+}
+
 .hero-title-wrapper {
   position: absolute;
   left: 33.3334%;
@@ -807,6 +815,7 @@ figcaption {
 }
 
 .hero-title-wrap.contact {
+  opacity: 1;
   color: #101010;
 }
 
