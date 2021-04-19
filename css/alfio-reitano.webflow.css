@@ -788,6 +788,7 @@ figcaption {
 }
 
 .hero-slide-title.homepage-1 {
+  opacity: 1;
   color: #000;
   font-size: 8vw;
   text-align: left;
@@ -2147,6 +2148,12 @@ figcaption {
   display: none;
 }
 
+.contact-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 8vw;
+  line-height: 9vw;
+}
+
 @media screen and (min-width: 1280px) {
   .hero-right {
     height: 100%;
@@ -2862,7 +2869,6 @@ figcaption {
   .hero-slide-title.homepage-1 {
     margin-bottom: 20px;
     font-size: 40px;
-    opacity: 1!important;
   }
 
   .hero-title-wrap {
