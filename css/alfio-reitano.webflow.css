@@ -747,6 +747,14 @@ figcaption {
   background-image: url('../images/5ebd4413566cdbec75b176f0_sid-leigh-YxqLwUeS0Bs-unsplash.jpeg');
 }
 
+.hero-right.cinque {
+  background-image: url('../images/49439092_2272922039621905_9197120569676398592_n.jpeg');
+  background-position: 0% 50%;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
 .hero-title-wrapper {
   position: absolute;
   left: 33.3334%;
@@ -820,6 +828,8 @@ figcaption {
 
 .hero-title-wrap.contact {
   opacity: 1;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   color: #101010;
 }
 
