@@ -2862,6 +2862,7 @@ figcaption {
   .hero-slide-title.homepage-1 {
     margin-bottom: 20px;
     font-size: 40px;
+    opacity: 1!important;
   }
 
   .hero-title-wrap {
